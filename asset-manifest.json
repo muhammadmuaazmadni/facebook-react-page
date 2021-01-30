@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/facebook-react-page/static/css/main.103c268a.chunk.css",
+    "main.js": "/facebook-react-page/static/js/main.66d16b44.chunk.js",
+    "main.js.map": "/facebook-react-page/static/js/main.66d16b44.chunk.js.map",
+    "runtime-main.js": "/facebook-react-page/static/js/runtime-main.906bcbee.js",
+    "runtime-main.js.map": "/facebook-react-page/static/js/runtime-main.906bcbee.js.map",
+    "static/js/2.0f545d10.chunk.js": "/facebook-react-page/static/js/2.0f545d10.chunk.js",
+    "static/js/2.0f545d10.chunk.js.map": "/facebook-react-page/static/js/2.0f545d10.chunk.js.map",
+    "index.html": "/facebook-react-page/index.html",
+    "static/css/main.103c268a.chunk.css.map": "/facebook-react-page/static/css/main.103c268a.chunk.css.map",
+    "static/js/2.0f545d10.chunk.js.LICENSE.txt": "/facebook-react-page/static/js/2.0f545d10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.906bcbee.js",
+    "static/js/2.0f545d10.chunk.js",
+    "static/css/main.103c268a.chunk.css",
+    "static/js/main.66d16b44.chunk.js"
+  ]
+}
